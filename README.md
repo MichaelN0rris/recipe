@@ -9,4 +9,4 @@ There are going to be three ingredients you will need to make this recipe:
 - Bay leaves
 - Time
 
-    ![Carnitas](https://github.com/MichaelN0rris/recipe/blob/edd442596dc4e0fa95a3b706941261a595c02049/Recipe.png)
+    ![Carnitas](Recipe.png)
